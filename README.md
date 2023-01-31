@@ -16,10 +16,14 @@ Repository for the Reading Group organized by Will Lowe about Richard McElreath'
 
 ### Timetable (to be edited)
 
-| Week ## | Meeting date | Reading | Lectures |
-| ------- | -------------- | ------------- | ---------------------- |
-| Week 01 | 27 January  | Chapter 1 | [1] <[Science Before Statistics](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=1)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-01)> 
-| Week 02 | 01 February | Chapters 2 and 3 | [2] <[Garden of Forking Data](https://www.youtube.com/watch?v=R1vcdhPBlXA&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=2)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-02)>
+| Week ## | Meeting date | Reading | Lectures | Exercises
+| ------- | -------------- | ------------- | ---------------------- | ------------- |
+| Week 01 | 27 January  | Chapter 1 | [1] <[Science Before Statistics](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=1)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-01)> | test
+| Week 02 | 01 February | Chapters 2 and 3 | [2] <[Garden of Forking Data](https://www.youtube.com/watch?v=R1vcdhPBlXA&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=2)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-02)> | test
+
+### Exercises
+
+Lecture/Week 02
 
 --- 
 
