@@ -18,8 +18,8 @@ Repository for the Reading Group organized by Will Lowe about Richard McElreath'
 
 | Week ## | Meeting date | Reading | Lectures | Exercises
 | ------- | -------------- | ------------- | ---------------------- | ------------- |
-| Week 01 | 27 January  | Chapter 1 | [1] <[Science Before Statistics](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=1)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-01)> | test
-| Week 02 | 01 February | Chapters 2 and 3 | [2] <[Garden of Forking Data](https://www.youtube.com/watch?v=R1vcdhPBlXA&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=2)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-02)> | test
+| Week 01 | 27 January  | Chapter 1 | [1] <[Science Before Statistics](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=1)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-01)> | 
+| Week 02 | 01 February | Chapters 2 and 3 | [2] <[Garden of Forking Data](https://www.youtube.com/watch?v=R1vcdhPBlXA&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=2)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-02)> | [Exercise Week 02](https://raw.githack.com/lwarode/bayes_reading_group/main/exercises/session_02.html)
 
 ### Exercises
 
